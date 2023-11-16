@@ -1,4 +1,4 @@
-#This animation depicts snow being blown with a snowblower during a Canadian winter. It then snows and coveres everything with snow.
+#This animation depicts snow being blown with a snowblower during the winter. It then snows and coveres everything with snow.
 
 #Initialize Tkinter with these
 from tkinter import*
